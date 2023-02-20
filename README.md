@@ -40,6 +40,8 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=singhshivansh&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=singhshivansh&theme=tokyonight" />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhshivansh&label=Profile%20views&color=0e75b6&style=flat" alt="singhshivansh" /> </p>
+
 </p>
 
 <br>
